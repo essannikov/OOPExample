@@ -1,19 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="470cf378-7c74-407e-b798-3df32324a8b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/MacTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/WindowsGUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/WindowsTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapters/AlphaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapters/AlphaListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapters/AlphaListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapters/BetaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapters/BetaListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapters/ListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridges/UserAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorators/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorators/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorators/HouseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorators/SecondFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorators/WoodenHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators/WordIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observers/Church.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observers/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observers/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observers/Parishioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observers/javasupport/CatholicChurch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observers/javasupport/Parishioner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/generics/CatBritain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/generics/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inner_classes_anonymous/MonitoringSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/nested_classes_static/Boeing737.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/oop/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/oop/ParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/AbrahamicReligion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/BuddismReligion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/Christianity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/Faith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/Judaism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/Religion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,19 +68,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2b8Biu1sfJhrBVxfHDf1NEwHLFw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/essannikov/IdeaProjects/test",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop.generics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -43,6 +103,70 @@
     </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="Boeing737$Drawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.nested_classes_static.Boeing737$Drawing" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.nested_classes_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monitoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inner_classes_anonymous.Monitoring" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.inner_classes_anonymous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection.MyClass" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optional.OptionalExample" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -66,6 +190,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OptionalExample" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.Boeing737$Drawing" />
+        <item itemvalue="Application.Monitoring" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +209,28 @@
       <option name="presentableId" value="Default" />
       <updated>1705586958633</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version 1.0">
+      <created>1705664280959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705664280959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Version 1.0">
+      <created>1705666488559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705666488559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Version 1.0">
+      <created>1705667058700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705667058700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +245,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
   </component>
 </project>
